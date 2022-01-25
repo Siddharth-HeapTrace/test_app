@@ -1,0 +1,5 @@
+git init
+git config --global user.emaail / user.name
+git status
+git branch
+git chekcout
